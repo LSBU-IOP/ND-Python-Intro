@@ -4,7 +4,7 @@
 
 ## Resources
 
-### Documentation
+### Documentation and References
 Python website. See the official documentation, and how to download and install on your own computer.  
 https://www.python.org/
 
