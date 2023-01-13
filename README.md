@@ -1,8 +1,12 @@
 # Python Intro - 6 week program
 
+### &darr; Launch a blank notebook 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LSBU-IOP/ND-Python-Intro/HEAD?labpath=blank_notebook.ipynb)
 
-## Resources
+### &darr; See the notes notebook 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LSBU-IOP/ND-Python-Intro/edit/main/README.md/HEAD?labpath=course_notes.ipynb)
+
+# Resources
 
 ### Documentation and References
 Python website. See the official documentation, and how to download and install on your own computer.  
