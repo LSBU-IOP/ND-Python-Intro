@@ -4,7 +4,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LSBU-IOP/ND-Python-Intro/HEAD?labpath=course_notes.ipynb)
 
 ### &darr; Open the worksheet
-[![Worksheet](https://img.shields.io/badge/launch-worksheet-brightgreen)](https://github.com/LSBU-IOP/ND-Python-Intro/blob/main/week_1_worksheet.pdf)
+[![Worksheet](https://img.shields.io/badge/launch-worksheet-brightgreen?style=plastic&logo=python)](https://github.com/LSBU-IOP/ND-Python-Intro/blob/main/week_1_worksheet.pdf)
 
 # Resources
 
