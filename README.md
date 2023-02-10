@@ -3,6 +3,9 @@
 ### &darr; See the course notes  
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LSBU-IOP/ND-Python-Intro/HEAD?labpath=course_notes.ipynb)
 
+### &darr; Open the worksheet
+[![Worksheet](https://img.shields.io/badge/launch-worksheet-brightgreen)](https://github.com/LSBU-IOP/ND-Python-Intro/blob/main/week_1_worksheet.pdf)
+
 # Resources
 
 ### Documentation and References
